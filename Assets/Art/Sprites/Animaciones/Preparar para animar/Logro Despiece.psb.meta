@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: e6e7d5676cbb6ad4c8665c662b4d4cce
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Brillo estrella propio
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 868
+      width: 266
+      height: 229
+    spriteID: e645b77f75989b4458d749150ec7bee6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 868}
+    spritePosition: {x: 378, y: 422}
+  - name: Brillo8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 1010
+      width: 189
+      height: 177
+    spriteID: d62f69dc36fcd014d85aeb5f774ec6ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 334, y: 1010}
+    spritePosition: {x: 471, y: 408}
+  - name: Brillo7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 818
+      width: 232
+      height: 184
+    spriteID: 91afa0abfe9596544b16ccea96d9faac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 334, y: 818}
+    spritePosition: {x: 428, y: 408}
+  - name: Brillo6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1817
+      width: 247
+      height: 185
+    spriteID: 0f3509808bcbb784f9852d05458f6943
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1817}
+    spritePosition: {x: 413, y: 408}
+  - name: Brillo5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1602
+      width: 250
+      height: 207
+    spriteID: 245bf2ff473b0e1479203f7e2c659c81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1602}
+    spritePosition: {x: 410, y: 408}
+  - name: Brillo4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1363
+      width: 238
+      height: 231
+    spriteID: 8552cd254d791f844af41f88255e3145
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1363}
+    spritePosition: {x: 410, y: 408}
+  - name: Brillo3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1105
+      width: 230
+      height: 250
+    spriteID: 19c9d9b016f1ddd4ea819896096677ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1105}
+    spritePosition: {x: 391, y: 408}
+  - name: Brillo2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 567
+      width: 209
+      height: 243
+    spriteID: b0d17802f33b7e541bc8c43ad74036cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 334, y: 567}
+    spritePosition: {x: 371, y: 421}
+  - name: Brillo1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 1195
+      width: 186
+      height: 175
+    spriteID: 88cc061621968454eb29ffc9145de16f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 334, y: 1195}
+    spritePosition: {x: 363, y: 489}
+  - name: estrella
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 567
+      width: 322
+      height: 293
+    spriteID: fec299b5866d5de41a530368f1053f2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 567}
+    spritePosition: {x: 351, y: 378}
+  - name: resplandor estrella
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 608
+      height: 555
+    spriteID: 0dc3152b550f11f468f305e1d4c4af98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 208, y: 248}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Brillo estrella propio
+    spriteName: Brillo estrella propio
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e645b77f75989b4458d749150ec7bee6
+    layerID: 969
+    mosaicPosition: {x: 4, y: 868}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Brillo8
+    spriteName: Brillo8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d62f69dc36fcd014d85aeb5f774ec6ca
+    layerID: 980
+    mosaicPosition: {x: 334, y: 1010}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Brillo7
+    spriteName: Brillo7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 91afa0abfe9596544b16ccea96d9faac
+    layerID: 979
+    mosaicPosition: {x: 334, y: 818}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Brillo6
+    spriteName: Brillo6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0f3509808bcbb784f9852d05458f6943
+    layerID: 978
+    mosaicPosition: {x: 4, y: 1817}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Brillo5
+    spriteName: Brillo5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 245bf2ff473b0e1479203f7e2c659c81
+    layerID: 977
+    mosaicPosition: {x: 4, y: 1602}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Brillo4
+    spriteName: Brillo4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8552cd254d791f844af41f88255e3145
+    layerID: 976
+    mosaicPosition: {x: 4, y: 1363}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Brillo3
+    spriteName: Brillo3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 19c9d9b016f1ddd4ea819896096677ea
+    layerID: 975
+    mosaicPosition: {x: 4, y: 1105}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Brillo2
+    spriteName: Brillo2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b0d17802f33b7e541bc8c43ad74036cb
+    layerID: 974
+    mosaicPosition: {x: 334, y: 567}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Brillo1
+    spriteName: Brillo1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 88cc061621968454eb29ffc9145de16f
+    layerID: 973
+    mosaicPosition: {x: 334, y: 1195}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: estrella
+    spriteName: estrella
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fec299b5866d5de41a530368f1053f2f
+    layerID: 968
+    mosaicPosition: {x: 4, y: 567}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: resplandor estrella
+    spriteName: resplandor estrella
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0dc3152b550f11f468f305e1d4c4af98
+    layerID: 972
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
